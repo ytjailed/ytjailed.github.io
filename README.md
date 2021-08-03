@@ -1,6 +1,7 @@
-[![Add](https://img.shields.io/badge/AltStore-Add%20This%20Source-brightgreen)](altstore://source?URL=https://ytjailed.github.io/apps.json)
+<a href="altstore://source?URL=https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/apps.json"><img src="https://img.shields.io/badge/AltStore-Add%20This%20Source-brightgreen?style=for-the-badge"></a>
+<a href="https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fytjailed%2Fytjailed.github.io%2Fmain%2Fapps.json"><img src="https://img.shields.io/badge/AltStore-Browse-blue?style=for-the-badge"></a>
 
-`https://ytjailed.github.io/apps.json`
+`https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/apps.json`
 
 ### BetterCercube
 YouTube Version: 16.29.4<br/>
