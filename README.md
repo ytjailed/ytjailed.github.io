@@ -23,7 +23,7 @@ YTSystemAppearance v1.0.0
 YouTube Version: 16.30.2<br/>
 Tweaks Injected:
 <pre>
-<a href="https://miro92.com/repo/depictions/?p=com.miro.uyou" title="MiRo92's Repo">uYou</a> v1.1
+<a href="https://miro92.com/repo/depictions/?p=com.miro.uyou" title="MiRo92's Repo">uYou</a> v1.2
 <a href="https://github.com/iCrazeiOS/YTStockShare" title="iCrazeiOS' GitHub">YTStockShare</a> v1.3
 <a href="https://github.com/PoomSmart/YouAreThere" title="PoomSmart's GitHub">YouAreThere</a> v1.0.1
 <a href="https://github.com/PoomSmart/YouPiP" title="PoomSmart's GitHub">YouPiP</a> v1.5.7
