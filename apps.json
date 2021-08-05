@@ -1,31 +1,7 @@
 {
   "apps": [
     {
-      "bundleIdentifier": "com.google.ios.youtube.BC",
-      "developerName": "Qn_",
-      "downloadURL": "https://dl.dropboxusercontent.com/s/cxrwgxgdfymd2sv/Better%20Cercube%2019.29.4%20%285.2.28%29.ipa?dl=0",
-      "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/BetterCercube/icon.png",
-      "localizedDescription": "Credits: KEEP THE CREDITS IF YOU WANT TO RE-UP MY IPA! \n- Alfhaily for Cercube.\n- Galactic-Dev for the original iSponsorBlock, @Luewii for his fork of iSponsorBlock (which works in jailed mode).\n- PoomSmart for YTUHD, YTClassicVideoQuality, YTSystemAppearence, YouAreThere and YouPiP.\n- level3tjg for YTNoHoverCards.\n- Al4ise for Azule - a tool used to make this IPA! \n- u/el_zari, the best tester I ever worked with. Plus many, many other testers. \n\nFeatures:\n- Cercube no ads: make sure you log in to Cercube using a verified account.\n- SponsorBlock: skip sponsor ads inside videos.\n- YTUHD: unlock VP9 codec, which also enables 1440 & 2140p quality.\n- YTClassicVideoQuality: brings back the original video quality selector.\n- YouAreThere: Disable popup that shows up when you play a long video. \n- YouPiP: Enable native PiP in YouTube app. \n- YTNoHoverCards: allows creator End screens (thumbnails) to appear at the end of videos. \n- YTNoShorts: remove Shorts in Home tab. You still can watch Shorts in the Shorts tab, or search for shorts in the search bar. \n\nKnown issues:\n- Cercube logo & YouTube logo may not appear in the top bar. \n- YouPiP: due to Apple's fault, speed-up bug still happens sometimes. (Workaround: use Legacy PiP, not recommend unless you're facing the speed-up bug). \n- iSponsorBlock: segments color doesn't show up in the seek bar. Workaround: downgrade to v16.20.5.\n- YTUHD may not work for some reasons. \n- Does not work on iOS 12 and below.",
-      "name": "BetterCercube",
-      "screenshotURLs": [
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot1.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot2.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot3.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg",
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1492.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1493.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1494.PNG"
-      ],
-      "size": 111886527,
-      "subtitle": "Ad-free Cercube for YouTube",
-      "tintColor": "FC2125",
-      "version": "16.29.4",
-      "versionDate": "2021-07-26",
-      "versionDescription": "- Initial release\n\n For full changelog, visit https://appdb.to/app/cydia/1900000823"
-    },
-    {
-      "bundleIdentifier": "com.google.ios.youtube.UY",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "MiRo92",
       "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/uYou_1-2_16-30-2.ipa",
       "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/uYou/icon.png",
