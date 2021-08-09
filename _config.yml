@@ -1,4 +1,5 @@
-title: YouTube Jailed
-description: An AltStore repo for tweaked versions of YouTube
+title: Jailed Source
+description: An AltStore repo for tweaked apps
 theme: jekyll-theme-tactile
 markdown: kramdown
+favicon: resources/favicon.ico
