@@ -21,7 +21,7 @@ Tweaks Injected:
 YouTube Version: 16.31.4<br/>
 Tweaks Injected:
 <pre>
-1. <a href="https://apt.alfhaily.me/depictions/FDXO5R" title="Majd's Repo">Cercube</a> v5.2.28
+1. <a href="https://apt.alfhaily.me/depictions/FDXO5R" title="Majd's Repo">Cercube</a> v5.3.0
 2. <a href="https://github.com/iCrazeiOS/YTStockShare" title="iCrazeiOS' GitHub">YTStockShare</a> v1.3
 3. <a href="https://github.com/PoomSmart/YouAreThere" title="PoomSmart's GitHub">YouAreThere</a> v1.0.1
 4. <a href="https://github.com/PoomSmart/YouPiP" title="PoomSmart's GitHub">YouPiP</a> v1.5.7
