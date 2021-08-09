@@ -16,10 +16,46 @@
       ],
       "size": 112167068,
       "subtitle": "uYou+ for YouTube",
-      "tintColor": "1E47D0",
+      "tintColor": "FC2125",
       "version": "16.31.4",
       "versionDate": "2021-08-09",
       "versionDescription": "Changelog:\n- Update YouTube base to 16.31.4\n- Update uYou to 1.3\n- Add back YTClassicVideoQualitySelector\n\nFor full changelog, visit https://miro92.com/repo/depictions/changelog.html?p=com.miro.uyou"
+    },
+    {
+      "bundleIdentifier": "com.google.ios.youtube.cercube",
+      "developerName": "Majd Alfhaily",
+      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/Cercube_5-2-28_16-31-4.ipa",
+      "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/Cercube/icon.png",
+      "localizedDescription": "Cercube not only gives you the features that are missing from YouTube, but it also gives you full control over the app.",
+      "name": "Cercube+",
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
+      ],
+      "size": 116878396,
+      "subtitle": "Cercube+ for YouTube",
+      "tintColor": "FFFFFF",
+      "version": "16.31.4",
+      "versionDate": "2021-08-09",
+      "versionDescription": "- Re-release"
+    },
+    {
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "Jailed Source",
+      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/NoTwitterAds_8-76-1.ipa",
+      "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/Twitter/icon.png",
+      "localizedDescription": "Hides certain tweets on your timeline such as 'Promoted Tweets' or 'News and Highlights'",
+      "name": "Twitter-",
+      "screenshotURLs": [],
+      "size": 58427937,
+      "subtitle": "Ad-free Twitter",
+      "tintColor": "1E47D0",
+      "version": "8.76.1",
+      "versionDate": "2021-08-09",
+      "versionDescription": "- Initial release"
     }
   ],
   "identifier": "com.ytjailed",

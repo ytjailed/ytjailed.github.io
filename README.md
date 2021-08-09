@@ -4,17 +4,39 @@
 `https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/apps.json`
 
 ### uYou+
-YouTube Version: 16.30.2<br/>
+YouTube Version: 16.31.4<br/>
 Tweaks Injected:
 <pre>
-<a href="https://miro92.com/repo/depictions/?p=com.miro.uyou" title="MiRo92's Repo">uYou</a> v1.3
-<a href="https://github.com/iCrazeiOS/YTStockShare" title="iCrazeiOS' GitHub">YTStockShare</a> v1.3
-<a href="https://github.com/PoomSmart/YouAreThere" title="PoomSmart's GitHub">YouAreThere</a> v1.0.1
-<a href="https://github.com/PoomSmart/YouPiP" title="PoomSmart's GitHub">YouPiP</a> v1.5.7
-<a href="https://github.com/PoomSmart/YTClassicVideoQualitySelector" title="PoomSmart's GitHub">YTClassicVideoQualitySelector</a> v1.0.1
-YTSystemAppearance v1.0.0
-<a href="https://github.com/PoomSmart/YTUHD" title="PoomSmart's GitHub">YTUHD</a> v1.2.0
-<a href="https://github.com/level3tjg/YTNoHoverCards" title="level3tjg's GitHub">YTNoHoverCards</a> v0.0.3
+1. <a href="https://miro92.com/repo/depictions/?p=com.miro.uyou" title="MiRo92's Repo">uYou</a> v1.3
+2. <a href="https://github.com/iCrazeiOS/YTStockShare" title="iCrazeiOS' GitHub">YTStockShare</a> v1.3
+3. <a href="https://github.com/PoomSmart/YouAreThere" title="PoomSmart's GitHub">YouAreThere</a> v1.0.1
+4. <a href="https://github.com/PoomSmart/YouPiP" title="PoomSmart's GitHub">YouPiP</a> v1.5.7
+5. <a href="https://github.com/PoomSmart/YTClassicVideoQualitySelector" title="PoomSmart's GitHub">YTClassicVideoQualitySelector</a> v1.0.1
+6. YTSystemAppearance v1.0.0
+7. <a href="https://github.com/PoomSmart/YTUHD" title="PoomSmart's GitHub">YTUHD</a> v1.2.0
+8. <a href="https://github.com/level3tjg/YTNoHoverCards" title="level3tjg's GitHub">YTNoHoverCards</a> v0.0.3
+</pre>
+
+### Cercube+
+YouTube Version: 16.31.4<br/>
+Tweaks Injected:
+<pre>
+1. <a href="https://apt.alfhaily.me/depictions/FDXO5R" title="Majd's Repo">Cercube</a> v5.2.28
+2. <a href="https://github.com/iCrazeiOS/YTStockShare" title="iCrazeiOS' GitHub">YTStockShare</a> v1.3
+3. <a href="https://github.com/PoomSmart/YouAreThere" title="PoomSmart's GitHub">YouAreThere</a> v1.0.1
+4. <a href="https://github.com/PoomSmart/YouPiP" title="PoomSmart's GitHub">YouPiP</a> v1.5.7
+5. <a href="https://github.com/PoomSmart/YTClassicVideoQualitySelector" title="PoomSmart's GitHub">YTClassicVideoQualitySelector</a> v1.0.1
+6. YTSystemAppearance v1.0.0
+7. <a href="https://github.com/PoomSmart/YTUHD" title="PoomSmart's GitHub">YTUHD</a> v1.2.0
+8. <a href="https://github.com/level3tjg/YTNoHoverCards" title="level3tjg's GitHub">YTNoHoverCards</a> v0.0.3
+</pre>
+
+### Twitter-
+Twitter Version: 8.76.1<br/>
+Features:
+<pre>
+1. Hides timeline promoted tweets
+2. Hides timeline "News and Highlights"
 </pre>
 
 ### Credits
