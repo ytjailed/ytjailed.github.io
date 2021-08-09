@@ -12,8 +12,8 @@ Tweaks Injected:
 3. <a href="https://github.com/PoomSmart/YouAreThere" title="PoomSmart's GitHub">YouAreThere</a> v1.0.1
 4. <a href="https://github.com/PoomSmart/YouPiP" title="PoomSmart's GitHub">YouPiP</a> v1.5.7
 5. <a href="https://github.com/PoomSmart/YTClassicVideoQualitySelector" title="PoomSmart's GitHub">YTClassicVideoQualitySelector</a> v1.0.1
-6. YTSystemAppearance v1.0.0
-7. <a href="https://github.com/PoomSmart/YTUHD" title="PoomSmart's GitHub">YTUHD</a> v1.2.0
+6. <a href="https://poomsmart.github.io/repo/depictions/ytsystemappearance.htmlYTSystemAppearance" title="PoomSmart's Repo">YTSystemAppearance</a> v1.0.0
+7. <a href="https://github.com/PoomSmart/YTUHD" title="PoomSmart's GitHub">YTUHD</a> v1.2.2
 8. <a href="https://github.com/level3tjg/YTNoHoverCards" title="level3tjg's GitHub">YTNoHoverCards</a> v0.0.3
 </pre>
 
@@ -26,8 +26,8 @@ Tweaks Injected:
 3. <a href="https://github.com/PoomSmart/YouAreThere" title="PoomSmart's GitHub">YouAreThere</a> v1.0.1
 4. <a href="https://github.com/PoomSmart/YouPiP" title="PoomSmart's GitHub">YouPiP</a> v1.5.7
 5. <a href="https://github.com/PoomSmart/YTClassicVideoQualitySelector" title="PoomSmart's GitHub">YTClassicVideoQualitySelector</a> v1.0.1
-6. YTSystemAppearance v1.0.0
-7. <a href="https://github.com/PoomSmart/YTUHD" title="PoomSmart's GitHub">YTUHD</a> v1.2.0
+6. <a href="https://poomsmart.github.io/repo/depictions/ytsystemappearance.htmlYTSystemAppearance" title="PoomSmart's Repo">YTSystemAppearance</a> v1.0.0
+7. <a href="https://github.com/PoomSmart/YTUHD" title="PoomSmart's GitHub">YTUHD</a> v1.2.2
 8. <a href="https://github.com/level3tjg/YTNoHoverCards" title="level3tjg's GitHub">YTNoHoverCards</a> v0.0.3
 </pre>
 
