@@ -4,13 +4,13 @@
 `https://ytjailed.github.io/apps.json`
 
 ### uYou+
-YouTube Version: 16.31.4<br/>
+YouTube Version: 16.32.6<br/>
 Tweaks Injected:
 <pre>
-1. <a href="https://miro92.com/repo/depictions/?p=com.miro.uyou" title="MiRo92's Repo">uYou</a> v1.3
+1. <a href="https://miro92.com/repo/depictions/?p=com.miro.uyou" title="MiRo92's Repo">uYou</a> v1.4
 2. <a href="https://github.com/iCrazeiOS/YTStockShare" title="iCrazeiOS' GitHub">YTStockShare</a> v1.3
 3. <a href="https://github.com/PoomSmart/YouAreThere" title="PoomSmart's GitHub">YouAreThere</a> v1.0.1
-4. <a href="https://github.com/PoomSmart/YouPiP" title="PoomSmart's GitHub">YouPiP</a> v1.5.7
+4. <a href="https://github.com/PoomSmart/YouPiP" title="PoomSmart's GitHub">YouPiP</a> v1.5.8
 5. <a href="https://github.com/PoomSmart/YTClassicVideoQualitySelector" title="PoomSmart's GitHub">YTClassicVideoQualitySelector</a> v1.0.1
 6. <a href="https://poomsmart.github.io/repo/depictions/ytsystemappearance.htmlYTSystemAppearance" title="PoomSmart's Repo">YTSystemAppearance</a> v1.0.0
 7. <a href="https://github.com/PoomSmart/YTUHD" title="PoomSmart's GitHub">YTUHD</a> v1.2.2
