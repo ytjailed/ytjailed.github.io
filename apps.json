@@ -3,7 +3,7 @@
     {
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "MiRo92",
-      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/uYou_1-5_16-32-6.ipa",
+      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/uYou_1-6-1_16-34-3.ipa",
       "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/uYou/icon.png",
       "localizedDescription": "uYou+ comes with original features we all like and love while injecting additional tweaks for extra functionality.\n\nList of injected tweaks:\nuYou v1.1\nYTStockShare v1.3\nYouAreThere v1.0.1\nYouPiP v1.5.7\nYTClassicVideoQualitySelector v1.0.1\nYTSystemAppearance v1.0.0\nYTUHD v1.2.0\nYTNoHoverCards v0.0.3",
       "name": "uYou+",
@@ -17,9 +17,9 @@
       "size": 121745516,
       "subtitle": "uYou+ for YouTube",
       "tintColor": "FC2125",
-      "version": "16.32.6",
-      "versionDate": "2021-08-22",
-      "versionDescription": "Changelog:\n- Update uYou to v1.5\n- Add YouRememberCaption\n\nFor full changelog, visit https://miro92.com/repo/depictions/changelog.html?p=com.miro.uyou"
+      "version": "16.34.3",
+      "versionDate": "2021-09-01",
+      "versionDescription": "Changelog:\n- Update uYou to v1.6.1\n- Update YTUHD to v1.2.4\n- Update YouTube base to 16.34.3\n\nFor full changelog, visit https://miro92.com/repo/depictions/changelog.html?p=com.miro.uyou"
     },
     {
       "bundleIdentifier": "com.google.ios.youtube.cercube",
