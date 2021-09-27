@@ -4,13 +4,14 @@
 `https://ytjailed.github.io/apps.json`
 
 ### uYou+
-YouTube Version: 16.34.3<br/>
+YouTube Version: 16.38.2<br/>
 Tweaks Injected:
 <pre>
-1. <a href="https://miro92.com/repo/depictions/?p=com.miro.uyou" title="MiRo92's Repo">uYou</a> v1.6.1
+1. <a href="https://miro92.com/repo/depictions/?p=com.miro.uyou" title="MiRo92's Repo">uYou</a> v2.0
 2. <a href="https://github.com/iCrazeiOS/YTStockShare" title="iCrazeiOS' GitHub">YTStockShare</a> v1.3
+3. <a href="https://poomsmart.github.io/repo/depictions/noytpremium.html" title="PoomSmart's Repo">NoYTPremium</a> v1.0.2
 3. <a href="https://poomsmart.github.io/repo/depictions/youremembercaption.html" title="PoomSmart's Repo">YouRememberCaption</a> v1.0.0
-4. <a href="https://github.com/PoomSmart/YouPiP" title="PoomSmart's GitHub">YouPiP</a> v1.5.8
+4. <a href="https://github.com/PoomSmart/YouPiP" title="PoomSmart's GitHub">YouPiP</a> v1.5.10
 5. <a href="https://github.com/PoomSmart/YTClassicVideoQualitySelector" title="PoomSmart's GitHub">YTClassicVideoQualitySelector</a> v1.0.1
 6. <a href="https://poomsmart.github.io/repo/depictions/ytsystemappearance.html" title="PoomSmart's Repo">YTSystemAppearance</a> v1.0.0
 7. <a href="https://github.com/PoomSmart/YTUHD" title="PoomSmart's GitHub">YTUHD</a> v1.2.4
@@ -31,12 +32,11 @@ Tweaks Injected:
 8. <a href="https://github.com/level3tjg/YTNoHoverCards" title="level3tjg's GitHub">YTNoHoverCards</a> v0.0.3
 </pre>
 
-### Twitter-
-Twitter Version: 8.79<br/>
-Features:
+### BHTwitter+
+Twitter Version: 8.83.2<br/>
+Tweaks Injected:
 <pre>
-1. Hides timeline promoted tweets
-2. Hides timeline "News and Highlights"
+2. <a href="https://github.com/BandarHL/BHTwitter" title="BandarHL' GitHub">BHTwitter</a> v2.0
 </pre>
 
 ### Credits
@@ -45,4 +45,5 @@ Features:
 [iCrazeiOS](https://github.com/iCrazeiOS)<br/>
 [PoomSmart](https://github.com/PoomSmart)<br/>
 [level3tjg](https://github.com/level3tjg)<br/>
-[Galactic-Dev](https://github.com/Galactic-Dev)
+[Galactic-Dev](https://github.com/Galactic-Dev)<br/>
+[BandarHL](https://github.com/BandarHL)
