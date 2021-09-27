@@ -18,7 +18,7 @@
       "subtitle": "uYou+ for YouTube",
       "tintColor": "FC2125",
       "version": "16.38.2",
-      "versionDate": "2021-09-28",
+      "versionDate": "2021-09-27T22:00:00",
       "versionDescription": "Changelog:\n- Update uYou to v2.0\n- Update YouPiP to v1.5.10\n- Update YouTube base to 16.38.2\n\nFor full changelog, visit https://miro92.com/repo/depictions/changelog.html?p=com.miro.uyou"
     },
     {
@@ -54,7 +54,7 @@
       "subtitle": "Ad-free Twitter",
       "tintColor": "1E47D0",
       "version": "8.83.2",
-      "versionDate": "2021-09-28",
+      "versionDate": "2021-09-27T22:00:00",
       "versionDescription": "Changelog:\n- Update Twitter base to 8.83.2\n- Use BHTwitter tweak"
     }
   ],
