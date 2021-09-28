@@ -4,8 +4,7 @@
 `https://ytjailed.github.io/apps.json`
 
 ### uYou+
-YouTube Version: 16.38.2
-<a href="altstore://install?URL=https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/uYou_2-0_16-38-2.ipa"><img src="https://img.shields.io/badge/AltStore-Install%20uYou%2B-brightgreen?style=for-the-badge"></a><br/>
+YouTube Version: 16.38.2<br/>
 Tweaks Injected:
 <pre>
 1. <a href="https://miro92.com/repo/depictions/?p=com.miro.uyou" title="MiRo92's Repo">uYou</a> v2.0
@@ -18,10 +17,10 @@ Tweaks Injected:
 8. <a href="https://github.com/PoomSmart/YTUHD" title="PoomSmart's GitHub">YTUHD</a> v1.2.4
 9. <a href="https://github.com/level3tjg/YTNoHoverCards" title="level3tjg's GitHub">YTNoHoverCards</a> v0.0.3
 </pre>
+<a href="altstore://install?URL=https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/uYou_2-0_16-38-2.ipa"><img src="https://img.shields.io/badge/AltStore-Install%20uYou%2B-red?style=for-the-badge"></a>
 
 ### Cercube+
-YouTube Version: 16.38.2
-<a href="altstore://install?URL=https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/Cercube_5-3-3_16-38-2.ipa"><img src="https://img.shields.io/badge/AltStore-Install%20Cercube%2B-brightgreen?style=for-the-badge"></a><br/>
+YouTube Version: 16.38.2<br/>
 Tweaks Injected:
 <pre>
 1. <a href="https://apt.alfhaily.me/depictions/FDXO5R" title="Majd's Repo">Cercube</a> v5.3.3
@@ -35,14 +34,15 @@ Tweaks Injected:
 9. <a href="https://github.com/PoomSmart/YTUHD" title="PoomSmart's GitHub">YTUHD</a> v1.2.4
 10. <a href="https://github.com/level3tjg/YTNoHoverCards" title="level3tjg's GitHub">YTNoHoverCards</a> v0.0.3
 </pre>
+<a href="altstore://install?URL=https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/Cercube_5-3-3_16-38-2.ipa"><img src="https://img.shields.io/badge/AltStore-Install%20Cercube%2B-red?style=for-the-badge"></a>
 
 ### BHTwitter+
-Twitter Version: 8.83.2
-<a href="altstore://install?URL=https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/BHTwitter_2-0_8-83-2.ipa"><img src="https://img.shields.io/badge/AltStore-Install%20BHTwitter%2B-brightgreen?style=for-the-badge"></a><br/>
+Twitter Version: 8.83.2<br/>
 Tweaks Injected:
 <pre>
 1. <a href="https://github.com/BandarHL/BHTwitter" title="BandarHL' GitHub">BHTwitter</a> v2.0
 </pre>
+<a href="altstore://install?URL=https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/BHTwitter_2-0_8-83-2.ipa"><img src="https://img.shields.io/badge/AltStore-Install%20BHTwitter%2B-red?style=for-the-badge"></a>
 
 ### Credits
 [Majd Alfhaily](https://github.com/majd)<br/>
