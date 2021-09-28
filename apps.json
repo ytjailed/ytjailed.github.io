@@ -24,7 +24,7 @@
     {
       "bundleIdentifier": "com.google.ios.youtube.cercube",
       "developerName": "Majd Alfhaily",
-      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/Cercube_5-3-3_16-36-4.ipa",
+      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/Cercube_5-3-3_16-38-2.ipa",
       "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/Cercube/icon.png",
       "localizedDescription": "Cercube not only gives you the features that are missing from YouTube, but it also gives you full control over the app.",
       "name": "Cercube+",
@@ -35,12 +35,12 @@
         "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
         "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
       ],
-      "size": 102628219,
+      "size": 103385853,
       "subtitle": "Cercube+ for YouTube",
       "tintColor": "FFFFFF",
-      "version": "16.36.4",
-      "versionDate": "2021-09-14",
-      "versionDescription": "Changelog:\n- Update Cercube to 5.3.3\n- Update YouTube base to 16.34.3\n\nFor full changelog, visit https://apt.alfhaily.me/changelogs/FDXO5R"
+      "version": "16.38.2",
+      "versionDate": "2021-09-28T15:00:00",
+      "versionDescription": "Changelog:\n- Update YouPiP to v1.5.10\n- Update YouTube base to 16.38.2\n\nFor full changelog, visit https://apt.alfhaily.me/changelogs/FDXO5R"
     },
     {
       "bundleIdentifier": "com.atebits.Tweetie2",
