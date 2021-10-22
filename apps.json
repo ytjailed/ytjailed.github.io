@@ -35,27 +35,27 @@
         "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
         "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
       ],
-      "size": 103385853,
+      "size": 103096772,
       "subtitle": "Cercube+ for YouTube",
       "tintColor": "FFFFFF",
-      "version": "16.38.2",
-      "versionDate": "2021-09-28T15:00:00",
-      "versionDescription": "Changelog:\n- Update YouPiP to v1.5.10\n- Update YouTube base to 16.38.2\n\nFor full changelog, visit https://apt.alfhaily.me/changelogs/FDXO5R"
+      "version": "16.41.2",
+      "versionDate": "2021-10-22T11:00:00",
+      "versionDescription": "Changelog:\n- Update YouTube base to 16.41.2\n- Update YouPiP to 1.5.14\n- Update YTUHD to 1.2.5\n- Update NoYTPremium to 1.0.3\n\nFor full changelog, visit https://apt.alfhaily.me/changelogs/FDXO5R"
     },
     {
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "Jailed Source",
-      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/BHTwitter_2-6_8-87.ipa",
+      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/BHTwitter_2-7_8-87.ipa",
       "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/Twitter/icon.png",
       "localizedDescription": "Hides certain tweets on your timeline such as 'Promoted Tweets' or 'News and Highlights'",
       "name": "BHTwitter+",
       "screenshotURLs": [],
-      "size": 73489113,
+      "size": 73537824,
       "subtitle": "Ad-free Twitter",
       "tintColor": "1E47D0",
       "version": "8.87",
-      "versionDate": "2021-10-17T15:30:00",
-      "versionDescription": "Changelog:\n- Update Twitter base to 8.87\n- Update BHTwitter to v2.6"
+      "versionDate": "2021-10-22T11:00:00",
+      "versionDescription": "Changelog:\n- Update BHTwitter to v2.7"
     }
   ],
   "identifier": "com.ytjailed",
