@@ -3,7 +3,7 @@
     {
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "MiRo92",
-      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/uYou_2-0_16-39-6.ipa",
+      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/uYou_2-1_16-43-2.ipa",
       "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/uYou/icon.png",
       "localizedDescription": "uYou+ comes with original features we all like and love while injecting additional tweaks for extra functionality.\n\nList of injected tweaks:\nuYou v1.1\nYTStockShare v1.3\nYouAreThere v1.0.1\nYouPiP v1.5.7\nYTClassicVideoQualitySelector v1.0.1\nYTSystemAppearance v1.0.0\nYTUHD v1.2.0\nYTNoHoverCards v0.0.3",
       "name": "uYou+",
@@ -14,17 +14,17 @@
         "https://miro92.com/repo/depictions/com.miro.uyou/screenshots/4.jpg",
         "https://miro92.com/repo/depictions/com.miro.uyou/screenshots/5.jpg"
       ],
-      "size": 112665635,
+      "size": 111935200,
       "subtitle": "uYou+ for YouTube",
       "tintColor": "FC2125",
-      "version": "16.40.3",
-      "versionDate": "2021-10-17T15:30:00",
-      "versionDescription": "Changelog:\n- Update YouTube base to 16.40.3\n- Update YouPiP to 1.5.14\n- Update YTUHD to 1.2.5\n- Update NoYTPremium to 1.0.3\n\nFor full changelog, visit https://miro92.com/repo/depictions/changelog.html?p=com.miro.uyou"
+      "version": "16.42.3",
+      "versionDate": "2021-10-30T16:25:00",
+      "versionDescription": "Changelog:\n- Update uYou to v2.1\n- Update YouTube base to 16.42.3\n\nFor full changelog, visit https://miro92.com/repo/depictions/changelog.html?p=com.miro.uyou"
     },
     {
       "bundleIdentifier": "com.google.ios.youtube.cercube",
       "developerName": "Majd Alfhaily",
-      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/Cercube_5-3-3_16-40-3.ipa",
+      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/Cercube_5-3-3_16-42-3.ipa",
       "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/Cercube/icon.png",
       "localizedDescription": "Cercube not only gives you the features that are missing from YouTube, but it also gives you full control over the app.",
       "name": "Cercube+",
@@ -35,12 +35,12 @@
         "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
         "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
       ],
-      "size": 103096772,
+      "size": 103228234,
       "subtitle": "Cercube+ for YouTube",
       "tintColor": "FFFFFF",
-      "version": "16.41.2",
-      "versionDate": "2021-10-22T11:00:00",
-      "versionDescription": "Changelog:\n- Update YouTube base to 16.41.2\n- Update YouPiP to 1.5.14\n- Update YTUHD to 1.2.5\n- Update NoYTPremium to 1.0.3\n\nFor full changelog, visit https://apt.alfhaily.me/changelogs/FDXO5R"
+      "version": "16.42.3",
+      "versionDate": "2021-10-30T16:25:00",
+      "versionDescription": "Changelog:\n- Update YouTube base to 16.42.3\n\nFor full changelog, visit https://apt.alfhaily.me/changelogs/FDXO5R"
     },
     {
       "bundleIdentifier": "com.atebits.Tweetie2",
