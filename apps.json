@@ -2,45 +2,18 @@
   "apps": [
     {
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "MiRo92",
-      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/uYou_2-1_16-43-2.ipa",
+      "developerName": "lillieweeb001",
+      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/Reborn_5-3-4_17-07-2.ipa",
       "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/uYou/icon.png",
-      "localizedDescription": "uYou+ comes with original features we all like and love while injecting additional tweaks for extra functionality.\n\nList of injected tweaks:\nuYou v1.1\nYTStockShare v1.3\nYouAreThere v1.0.1\nYouPiP v1.5.7\nYTClassicVideoQualitySelector v1.0.1\nYTSystemAppearance v1.0.0\nYTUHD v1.2.0\nYTNoHoverCards v0.0.3",
-      "name": "uYou+",
-      "screenshotURLs": [
-        "https://miro92.com/repo/depictions/com.miro.uyou/screenshots/1.jpg",
-        "https://miro92.com/repo/depictions/com.miro.uyou/screenshots/2.jpg",
-        "https://miro92.com/repo/depictions/com.miro.uyou/screenshots/3.jpg",
-        "https://miro92.com/repo/depictions/com.miro.uyou/screenshots/4.jpg",
-        "https://miro92.com/repo/depictions/com.miro.uyou/screenshots/5.jpg"
-      ],
-      "size": 111935200,
-      "subtitle": "uYou+ for YouTube",
+      "localizedDescription": "Reborn+ comes with original features we all like and love while injecting additional tweaks for extra functionality.\n\nList of injected tweaks:\nYoutube Reborn v3 (Beta)\nYouAreThere\nYouPiP\nYTClassicVideoQualitySelector\nYTUHD\nYTNoHoverCards\nYTSilentVite\nReturn YouTube Dislike",
+      "name": "Reborn+",
+      "screenshotURLs": [],
+      "size": 100101412,
+      "subtitle": "YouTube Reborn v3",
       "tintColor": "FC2125",
-      "version": "16.42.3",
-      "versionDate": "2021-10-30T16:25:00",
-      "versionDescription": "Changelog:\n- Update uYou to v2.1\n- Update YouTube base to 16.42.3\n\nFor full changelog, visit https://miro92.com/repo/depictions/changelog.html?p=com.miro.uyou"
-    },
-    {
-      "bundleIdentifier": "com.google.ios.youtube.cercube",
-      "developerName": "Majd Alfhaily",
-      "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/Cercube_5-3-3_16-42-3.ipa",
-      "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/Cercube/icon.png",
-      "localizedDescription": "Cercube not only gives you the features that are missing from YouTube, but it also gives you full control over the app.",
-      "name": "Cercube+",
-      "screenshotURLs": [
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot1.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot2.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot3.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
-        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
-      ],
-      "size": 103228234,
-      "subtitle": "Cercube+ for YouTube",
-      "tintColor": "FFFFFF",
-      "version": "16.42.3",
-      "versionDate": "2021-10-30T16:25:00",
-      "versionDescription": "Changelog:\n- Update YouTube base to 16.42.3\n\nFor full changelog, visit https://apt.alfhaily.me/changelogs/FDXO5R"
+      "version": "17.07.2",
+      "versionDate": "2022-02-25T19:45:00",
+      "versionDescription": "Changelog:\n- Initial Release"
     },
     {
       "bundleIdentifier": "com.atebits.Tweetie2",
